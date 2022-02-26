@@ -21,8 +21,9 @@ public class Problem3 {
                 }
             }
         }
-            if (!isGenome)
+            if (!isGenome){
             System.out.println("no gene is is found");
+            }
     }
 }
 
