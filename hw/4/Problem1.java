@@ -9,7 +9,7 @@ public class Problem1 {
         System.out.print("Enter the side: ");
         double length = input.nextDouble();
 
-        double area = ((numOfSides * (Math.pow(length, 2))) / (4 * Math.tan(3.14159 / numOfSides)));
+        double area = ((numOfSides * (Math.pow(length, 2))) / (4 * Math.tan(Math.PI / numOfSides)));
 
         System.out.println("The area of the polygon is: " + area);
 
