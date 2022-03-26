@@ -9,7 +9,7 @@ public class Project2{
         // keep track of amount of inputs
         int count = 1;
         System.out.println("Input 10 non-negative integers, each smaller than 1000: ");
-        for(int i=0; i<10; i++){
+        for(int i=0; i<10; i++) {
             // read user input
             System.out.print("Input " + count + ": ");
             int n = input.nextInt();
@@ -22,9 +22,9 @@ public class Project2{
         input.close();
         int ans = 0;
         // loop of all remainders
-        for(int i = 0; i < 2; i++){            
+        for(int i = 0; i < 2; i++) {            
             // Count the remainder
-            if(remainder[i] == 1){
+            if(remainder[i] == 1) {
                 ans++;
             }
         }
