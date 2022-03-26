@@ -1,4 +1,4 @@
-// Ethan Ondreicka // Professor Arias // March 24th //
+// Ethan Ondreicka // Professor Arias // March 23rd //
 public class Problem1{
     static int count[]=new int[10];
     public static void main(String[] args){
