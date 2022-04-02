@@ -28,7 +28,7 @@ public class Project2{
                 ans++;
             }
         }
-        // number of distinct integers
+        // print number of distinct integers
         System.out.println("Distinct Numbers: " + ans);
     }
 }
