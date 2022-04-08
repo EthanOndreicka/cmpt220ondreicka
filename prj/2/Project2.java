@@ -22,7 +22,7 @@ public class Project2{
         input.close();
         int ans = 0;
         // loop of all remainders
-        for(int i = 0; i < 2; i++) {            
+        for(int i = 0; i < 2; i++) { // JA: Why just 2? This should go up to 42  
             // Count the remainder
             if(remainder[i] == 1) {
                 ans++;

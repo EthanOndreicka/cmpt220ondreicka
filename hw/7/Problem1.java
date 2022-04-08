@@ -1,6 +1,7 @@
 // Ethan Ondreicka // Professor Arias // March 31 //
 import java.util.Scanner;
 
+// JA: Is this the QuadraticEquation?
 public class Problem1{
 
    private int a;
