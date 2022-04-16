@@ -1,4 +1,4 @@
-// Ethan Ondreicka // Professor Arias // April 5, 2022
+// Ethan Ondreicka // Professor Arias // April 5, 2022 //
 import java.util.Scanner;
 public class Project3 {
 
