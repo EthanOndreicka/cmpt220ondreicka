@@ -1,6 +1,7 @@
 // Ethan Ondreicka // April 14th 2022 // Professor Arias //
 import java.util.*;
 
+// JA: You are missing the last substring
 public class Problem1 {
 
     public static ArrayList<String> split(String s, String delimiters){

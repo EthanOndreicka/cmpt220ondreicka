@@ -1,6 +1,7 @@
 // Ethan Ondreicka // April 14th 2022 // Professor Arias //
 import java.util.*;
 
+// JA: This seems to miss some weights
 public class Problem2{
     //method to find the largest value
     public static int largest(int arr[], int size){
