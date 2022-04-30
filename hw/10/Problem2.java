@@ -1,4 +1,4 @@
-
+// Ethan Ondreicka // Professor Arias // April 28 //
 class Animal implements Comparable<Animal>, Cloneable{
     private double weight;
  
