@@ -1,3 +1,4 @@
+// Ethan Ondreicka // Prof. Arias // May 5th //
 public class Complex{
     double x, y;
     Complex(double a, double b){
